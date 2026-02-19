@@ -77,9 +77,3 @@ node 01-chai-order.js
 
 ---
 
-
-
-> Made with ❤️ and chai ☕ while learning JavaScript Data Types.
-
----
-
