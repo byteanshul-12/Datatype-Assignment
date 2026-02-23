@@ -142,4 +142,4 @@ console.log(getFirstAndLastChar(("  ")))
 
 
 
-asdfghjkl
+asdfghjklsfadafsf
