@@ -138,4 +138,8 @@ console.log(whisperChaiOrder("MASALA CHAI"));
 
 console.log(hasSpecialIngredient("MALSAS CHAI" , "MALSAS"));
 
-console.log(getFirstAndLastChar(("  ")))
+console.log(getFirstAndLastChar(("  ")))    
+
+
+
+asdfghjkl
